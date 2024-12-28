@@ -27,6 +27,7 @@
     "webpack-dev-server": "^5.1.0"
   },
   "dependencies": {
+    "@sagemodeninja/custom-component": "^2.0.6",
     "@larinonpm/components": "^0.1.1-beta.4",
     "lit": "^3.2.1"
   }

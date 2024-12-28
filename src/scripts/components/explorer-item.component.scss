@@ -1,0 +1,9 @@
+#input {
+    display: none;
+}
+
+div[data-editable] {
+    #name { display: none; }
+
+    #input { display: initial; }
+}
